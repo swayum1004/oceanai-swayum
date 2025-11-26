@@ -2,11 +2,6 @@
 
 A full-stack email triage, drafting, and productivity assistant built with FastAPI + Streamlit + Local LLM (or mock fallback).
 
-📄 Assignment Specification
-
-This project was developed according to the specification in:
-/mnt/data/Assignment - 2.pdf (local assignment file provided)
-
 ⭐ Overview
 
 The Email Productivity Agent helps users efficiently handle email overload by:
