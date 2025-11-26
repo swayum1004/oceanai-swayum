@@ -1,0 +1,7 @@
+{
+  "categorization_prompt": "Categorize the following email into one of these categories: Important, Newsletter, Spam, To-Do, Meeting, Personal.\nReturn a short category label and a one-sentence rationale.\n\nEmail:\n{email_text}\n\nRespond as JSON: {\"category\": \"...\", \"reason\": \"...\"}",
+
+  "action_prompt": "Extract actionable tasks from the email. For each task, return JSON with fields: task, deadline (ISO date or null), assignee (if mentioned), and context excerpt.\n\nEmail:\n{email_text}\n\nRespond as JSON array: [{\"task\":\"...\",\"deadline\":\"...\",\"assignee\":\"...\",\"context\":\"...\"}]",
+
+  "auto_reply_prompt": "Draft an email reply based on the user's requested tone. Use the email thread context if available. If the email is a meeting request, politely ask for an agenda and propose 2 time slots.\n\nContext:\n{email_text}\n\nUser instruction:\n{user_instruction}\n\nRespond as JSON: {\"subject\":\"...\",\"body\":\"...\"}"
+}

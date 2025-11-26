@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "sender": "manager@company.com",
+    "subject": "Project Update & Next Steps",
+    "timestamp": "2025-01-10T09:00:00Z",
+    "body": "Please prepare the Q4 report by Friday. Also schedule a 30-min sync next week."
+  },
+  {
+    "id": 2,
+    "sender": "hr@company.com",
+    "subject": "Action Required: Benefits Enrollment",
+    "timestamp": "2025-01-09T10:15:00Z",
+    "body": "Open enrollment closes Nov 30. Please select your benefits."
+  },
+  {
+    "id": 3,
+    "sender": "noreply@newsletter.com",
+    "subject": "Weekly Digest: Product News",
+    "timestamp": "2025-01-08T07:30:00Z",
+    "body": "This week's product highlights and articles you might like."
+  },
+  {
+    "id": 4,
+    "sender": "friend@gmail.com",
+    "subject": "Dinner on Thursday?",
+    "timestamp": "2025-01-07T18:20:00Z",
+    "body": "Hey — want to grab dinner Thursday?"
+  },
+  {
+    "id": 5,
+    "sender": "sales@vendor.com",
+    "subject": "Invoice #45321",
+    "timestamp": "2025-01-06T11:50:00Z",
+    "body": "Attached is your invoice. Payment due in 30 days."
+  },
+  {
+    "id": 6,
+    "sender": "spammy@unknown.xyz",
+    "subject": "You've won a prize!",
+    "timestamp": "2025-01-05T04:10:00Z",
+    "body": "Click here to claim your prize now."
+  },
+  {
+    "id": 7,
+    "sender": "pm@project.org",
+    "subject": "Meeting Request: Roadmap Review",
+    "timestamp": "2025-01-04T09:45:00Z",
+    "body": "Can we meet Tuesday at 10:00? Proposed agenda attached."
+  },
+  {
+    "id": 8,
+    "sender": "teammate@company.com",
+    "subject": "Task: Update README",
+    "timestamp": "2025-01-03T12:00:00Z",
+    "body": "Can you update the README with setup steps?"
+  },
+  {
+    "id": 9,
+    "sender": "alerts@service.com",
+    "subject": "Service Outage Resolved",
+    "timestamp": "2025-01-02T03:15:00Z",
+    "body": "We resolved the incident — all systems operational."
+  },
+  {
+    "id": 10,
+    "sender": "client@business.com",
+    "subject": "Request: Scope Change",
+    "timestamp": "2025-01-01T14:30:00Z",
+    "body": "Client asks to add two features; need estimate."
+  },
+  {
+    "id": 11,
+    "sender": "events@community.org",
+    "subject": "Invite: Networking Night",
+    "timestamp": "2024-12-30T08:45:00Z",
+    "body": "Join us for networking on Dec 3 — RSVP requested."
+  },
+  {
+    "id": 12,
+    "sender": "deliveries@shop.com",
+    "subject": "Order Shipped: #998877",
+    "timestamp": "2024-12-29T06:20:00Z",
+    "body": "Your order has shipped and will arrive soon."
+  },
+  {
+    "id": 13,
+    "sender": "legal@company.com",
+    "subject": "Policy Update: Data Retention",
+    "timestamp": "2024-12-28T16:00:00Z",
+    "body": "Please review the new data retention policy."
+  },
+  {
+    "id": 14,
+    "sender": "marketing@company.com",
+    "subject": "Promotion Request",
+    "timestamp": "2024-12-27T10:05:00Z",
+    "body": "Would you share the upcoming webinar with your network?"
+  },
+  {
+    "id": 15,
+    "sender": "ceo@company.com",
+    "subject": "Congrats on the launch",
+    "timestamp": "2024-12-26T09:10:00Z",
+    "body": "Great job on the launch — quick note of appreciation."
+  },
+  {
+    "id": 16,
+    "sender": "support@service.com",
+    "subject": "Ticket #789: Billing Question",
+    "timestamp": "2024-12-25T21:15:00Z",
+    "body": "We received your billing question; please reply with last 4 digits."
+  },
+  {
+    "id": 17,
+    "sender": "research@uni.edu",
+    "subject": "Collaboration Opportunity",
+    "timestamp": "2024-12-24T13:40:00Z",
+    "body": "Would you be interested in collaborating on research?"
+  },
+  {
+    "id": 18,
+    "sender": "no-reply@social.com",
+    "subject": "New Login from Chrome on Windows",
+    "timestamp": "2024-12-23T05:00:00Z",
+    "body": "We detected a new login. If not you, secure the account."
+  },
+  {
+    "id": 19,
+    "sender": "partner@ally.com",
+    "subject": "Quarterly Partnership Review",
+    "timestamp": "2024-12-22T15:20:00Z",
+    "body": "Let's prepare metrics for the quarterly review meeting."
+  },
+  {
+    "id": 20,
+    "sender": "coach@fitness.com",
+    "subject": "Monthly Check-in",
+    "timestamp": "2024-12-21T09:55:00Z",
+    "body": "How did training go this month? Any updates?"
+  }
+]

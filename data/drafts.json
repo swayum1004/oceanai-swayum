@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6c57341f-dff5-4b8d-8f1a-86971bc0ec20",
+    "subject": "Test draft",
+    "body": "Draft body here",
+    "created_at": "2025-11-25T19:32:26.448245+00:00",
+    "updated_at": "2025-11-25T19:32:26.448245+00:00",
+    "source_email_id": 1,
+    "type": "agent-generated",
+    "metadata": {}
+  }
+]

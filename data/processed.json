@@ -1,0 +1,13 @@
+{
+  "1": {
+    "email": {
+      "id": 1,
+      "sender": "manager@company.com",
+      "subject": "Project Update & Next Steps",
+      "timestamp": "2025-01-10T09:00:00Z",
+      "body": "Please prepare the Q4 report by Friday. Also schedule a 30-min sync next week."
+    },
+    "category_output": "{\"category\": \"Newsletter\", \"reason\": \"Likely a newsletter or digest.\"}",
+    "action_output": "[{\"task\": \"prepare the Q4 report by Friday\", \"deadline\": null, \"assignee\": null, \"context\": \"Extract actionable tasks from the email. For each task, return JSON with fields: task, deadline (ISO date or null), assignee (if mentioned), and context excerpt.  Email: Please prepare the Q4 report by Friday. Also schedule a 30-min sync next week.  Respond as JSON array: [{\\\"task\\\":\\\"...\\\",\\\"deadline\\\":\\\"...\\\",\\\"assignee\\\":\\\"...\\\",\\\"context\\\":\\\"...\\\"}]\"}, {\"task\": \"Schedule meeting / confirm time\", \"deadline\": null, \"assignee\": null, \"context\": \"Extract actionable tasks from the email. For each task, return JSON with fields: task, deadline (ISO date or null), assignee (if mentioned), and context excerpt.  Email: Please prepare the Q4 report by Friday. Also schedule a 30-min sync next week.  Respond as JSON array: [{\\\"task\\\":\\\"...\\\",\\\"deadline\\\":\\\"...\\\",\\\"assignee\\\":\\\"...\\\",\\\"context\\\":\\\"...\\\"}]\"}]"
+  }
+}
